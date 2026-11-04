@@ -1,5 +1,8 @@
 ### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
-### DATE: 
+
+### NAME  :Darshan V
+### REGNO :212224230050
+### DATE: 04/11/2026
 ### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
 ### Description:
 In data mining, association rule learning is a popular and well researched method for discovering interesting
@@ -44,6 +47,9 @@ G40,high,yes,excellent,yes
 ### OUTPUT:
 
 
+<img width="1236" height="733" alt="Screenshot 2026-10-31 141625" src="https://github.com/user-attachments/assets/1f597561-e983-4769-824e-c4d8e2fc11a7" />
+
+
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Open explorer.
@@ -54,4 +60,10 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 
+
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/59670782-3b7e-432c-b133-4a8741486ea2" />
+
+
 ### RESULT: 
+Thus, the association rules for the employee dataset were successfully generated using the Apriori algorithm. Frequent itemsets and association rules were identified based on minimum support and confidence values. The results help identify relationships between employee department, experience, education, and salary.
+
